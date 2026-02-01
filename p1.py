@@ -1,1 +1,1 @@
-print("framework-core UPDATE2")
+print("framework-core FIX2")
