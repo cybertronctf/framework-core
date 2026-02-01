@@ -1,1 +1,0 @@
-print("framework-core FIX2")
